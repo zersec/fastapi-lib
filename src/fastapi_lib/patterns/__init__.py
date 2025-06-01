@@ -1,3 +1,3 @@
-from fastapi_lib.patterns.repository import *
+from fastapi_lib.patterns.repository import CrudRepository, Repository
 
-__all__ = ["Repository", "CrudRepository"]
+__all__ = ["CrudRepository", "Repository"]
