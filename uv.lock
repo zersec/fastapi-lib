@@ -78,7 +78,7 @@ wheels = [
 
 [[package]]
 name = "fastapi-lib"
-version = "25.6.1"
+version = "25.6.2"
 source = { editable = "." }
 dependencies = [
     { name = "pydantic" },
